@@ -191,7 +191,7 @@ if selected == "Laden-Speed & Con":
     fig2.update_xaxes(title_text="UTC Date & Time")
     fig2.update_layout(legend=dict(yanchor="top", y=0.9, xanchor="left", x=0.7))
     fig2.update_yaxes(title_text="Instructed Speed,CP Fuel Cons. Limit,Speed (KTS),TOTAL FO Consumption / 24 hrs")
-    fig2.update_yaxes(range=[0, 60])
+    fig2.update_yaxes(range=[0, 100])
     fig2.update_yaxes(visible=True, showticklabels=True, title_font=dict(size=12))
     st.plotly_chart(fig2, use_container_width=True)
     data = pd.read_csv("laden.csv")
