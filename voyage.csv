@@ -1,12 +1,12 @@
-Voyage No.,Instructed Speed,Avg Speed (Voyage),Avg Speed (in Good weather),Avg FO cons / day,CP Fuel cons limit
-01 L,11,10.2,10.3,37.3,35
-02 L,11,9.7,9.9,38.3,36
-03 L,11,10.1,10.2,41.2,36
-04 L,11,10.2,10.3,40,35
-05 L,11,9.4,9.3,47.1,38
-06 L,11,10.7,10.7,43.8,36
-07 L,11,10.8,10.8,40.7,36
-08L,11,9.7,9.7,39.7,32
-09L,11,9.51,9.6,38.3,36
-10L,11,8.04,8.23,30.73,32
-11L,11,8.88,10.23,28.1,36
+Voyage No.,Departure Port,Arrival Port,Instructed Speed,Avg Speed (Voyage),Avg Speed (in Good weather),Avg FO cons / day,CP Fuel cons limit
+01 L,Vizag,Hazira,11,10.2,10.3,37.3,35
+02 L,Mina Saqr,Paradip,11,9.7,9.9,38.3,36
+03 L,Vizag,Hazira,11,10.1,10.2,41.2,36
+04 L,Vizag,Hazira,11,10.2,10.3,40,35
+05 L,Mina Saqr,Dhamra,11,9.4,9.3,47.1,38
+06 L,Vizag,Hazira,11,10.7,10.7,43.8,36
+07 L,Vizag,Hazira,11,10.8,10.8,40.7,36
+08L,Vizag,Hazira,11,9.7,9.7,39.7,32
+09L,Kandla,CAOFEIDIAN / CHINA,11,9.51,9.6,38.3,36
+10L,,,11,8.04,8.23,30.73,32
+11L,,,11,8.88,10.23,28.1,36
