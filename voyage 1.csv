@@ -1,13 +1,13 @@
-Voyage No.,Instructed Speed,Avg Speed (Voyage),Avg Speed (in Good weather),Avg FO cons / day,CP Fuel cons limit
-01 B,11,10.9,11.1,33,32
-02 B,11,10.8,10.7,36.1,32
-03 B,11,5.4,5.4,36,35
-04 B,11,10.6,10.6,35.6,32
-05 B,11,10.81,10.81,36.1,32
-06 B,11,12.29,12.29,41.7,38
-07 B,11,10.15,10.14,35,32
-08B,11,11.13,11.13,35.4,32
-09B,11,11.28,11.28,36.7,32
-10B,11,10.22,10.39,30.07,35
-11B,11,10.59,10.73,29.8,36
-12B,11,8.85,10.14,29.78,36
+Voyage No.,Departure Port,Arrival Port,Instructed Speed,Avg Speed (Voyage),Avg Speed (in Good weather),Avg FO cons / day,CP Fuel cons limit,
+01 B,Colombo,Vizag,11,10.9,11.1,33,32,
+02 B,Hazira,Mina Saqr,11,10.8,10.7,36.1,32,
+03 B,Paradip,Vizag,11,5.4,5.4,36,35,
+04 B,Hazira,Vizag,11,10.6,10.6,35.6,32,
+05 B,Hazira,Mina Saqr,11,10.81,10.81,36.1,32,
+06 B,Dhamra,Vizag,11,12.29,12.29,41.7,38,
+07 B,Hazira,Vizag,11,10.15,10.14,35,32,
+08B,Hazira,Vizag,11,11.13,11.13,35.4,32,
+09B,Hazira,Kandla,11,11.28,11.28,36.7,32,
+10B,,,11,10.22,10.39,30.07,35,
+11B,,,11,10.59,10.73,29.8,36,
+12B,,,11,8.85,10.14,29.78,36,
